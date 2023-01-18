@@ -1,4 +1,4 @@
-#Name of the workflow
+#Name of the workflow for all scans
 name: Build code, run unit test, run SAST, SCA, DAST security scans
 on: push
 
